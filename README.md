@@ -5,6 +5,7 @@ Rocket
 G
 63
 AMG
+1000
 Bought
 on
 March 5
