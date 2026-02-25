@@ -7,6 +7,7 @@ G
 AMG
 1000
 Hp
+Black
 Bought
 on
 March 5
