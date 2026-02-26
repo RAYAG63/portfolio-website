@@ -8,6 +8,7 @@ AMG
 1000
 Hp
 Black
+Special
 edition
 Bought
 on
